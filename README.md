@@ -44,8 +44,8 @@ You can run a simple test case to make sure the build is correct:
 
 In case you are interested, here is a harder way to build Sketch.
 ```sh
-.../ $ hg clone https://bitbucket.org/gatoatigrado/sketch-frontend
-.../ $ hg clone https://bitbucket.org/gatoatigrado/sketch-backend
+.../ $ git clone https://github.com/asolarlez/sketch-frontend
+.../ $ git clone https://github.com/asolarlez/sketch-backend
 ```
 Make sure that you have `java`, `javac`, and `mvn` for sketch-frontend;
 `gcc`, `g++`, `bison`, and `flex` for sketch-backend.
